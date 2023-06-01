@@ -11,7 +11,7 @@
      name : <input type="text" name="n">
      password : <input type="text" name="p">
      login : <input type="submit">
-     
+     <button >click</button>
      </form>
 </body>
 </html>
